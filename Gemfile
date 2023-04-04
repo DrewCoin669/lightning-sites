@@ -4,6 +4,6 @@ source 'https://rubygems.org'
 gemspec
 
 # https://stackoverflow.com/a/34144366/300224
-gem 'rake'
+gem 'rake', '>= 12.3.3'
 gem 'rspec'
 
